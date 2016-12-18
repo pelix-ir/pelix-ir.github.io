@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'B Nazanin';
+    src: url('../fonts/BNAZANIN.TTF');
+}
+
+.farsi {
+    font-family: 'B Nazanin';
+    direction: rtl;
+}
+
+.text {
+    font-size: 17px;
+}
+
+.title {
+    font-size: 21px;
+}
